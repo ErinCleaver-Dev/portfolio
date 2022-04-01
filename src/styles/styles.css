@@ -1,3 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
 .nav-bar-custom {
     border-bottom: 1px solid black;
+}
+
+.home-page-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 86px;
+    font-family: 'DM Serif Text', serif;
+}
+
+h2, p {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.card_formated {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.description {
+    align-self: start;
+    padding: 0;
+    margin: 0;
 }
