@@ -122,6 +122,23 @@ img {
     position: relative;
 }
 
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    width: 100px;
+}
+
+.contact_card {
+    border: 2px solid rgb(195, 195, 195);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.contact_info {
+    display: flex;
+    padding: 5px;
+}
+
 @media (max-width: 992px) {
     .card_formated {
         margin-bottom: 20px;
@@ -135,6 +152,8 @@ img {
         justify-content: center;    
     }
 }
+
+
 
 
 @media (max-width: 600px) {
