@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "EC-Weather Application",
+        "img" : "../../images/weather_application.png",
+        "alt": "A basic weater application",
+        "type" : "Weather",
+        "website" : "https://ec-weather-application.netlify.app/",
+        "github" : "https://github.com/ErinCleaver-GRCC/weather-application",
+        "description": "A basic weather application using CSS, html, and javascript"
+    },
+    {
+        "id": "2",
+        "name": "Knowledge Basie Article System",
+        "img" : "../../images/EJ_KBA_Database.png",
+        "alt": "A picture of a Knowledge Basie system for react",
+        "type" : "KBA",
+        "website" : "https://ej-kba.vercel.app",
+        "github" : "https://github.com/ErinCleaver-GRCC/Knowledge-base-article-system",
+        "description" : "A knowledge based system using react, javascript, and other lanaguages."
+    },
+    {
+        "id": "3",
+        "name": "EC-Blogging App",
+        "img" : "../../images/ec-blogging-tool.png",
+        "alt": "A basic blogging application that is still in developmentt",
+        "type": "EC-Blogging",
+        "website" : "https://ec-blog-ten.vercel.app/",
+        "github" : "https://github.com/ErinCleaver-GRCC/ec-blog",
+        "description" : "A blog application.  It will use next js, firebase, and firebase real time database. (work in progress)"
+    }
+]
