@@ -9,12 +9,11 @@
     border-bottom: 1px solid black;
 }
 
-.home-page-main {
+.content {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-
 h1 {
     font-size: 86px;
     font-family: 'DM Serif Text', serif;
@@ -59,9 +58,6 @@ img {
 }
 
 .about_content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: space-around;
 }
 
